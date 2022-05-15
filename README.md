@@ -1,5 +1,4 @@
 # prog_est_tarea1.2
-<<<<<<< HEAD
 <p>Autor: Andriks Imanol Ruiz Mártinez, Fecha: 03/02/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
 Materia: Programación Estructrada <br>
@@ -24,6 +23,3 @@ Objetivo: Hacer un programa que calcule el área de una ésfera
 Es un programa que calcula el área de una esfera usando M_PI*pow, el cual es una función que pertenece a la librería math.h.
 <br>
 </p>
-=======
-Programa para calcular el área de un esfera
->>>>>>> 249b8beae47df453725f5ba52bf2595ca8187cba
