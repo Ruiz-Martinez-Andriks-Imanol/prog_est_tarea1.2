@@ -16,10 +16,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Hacer un programa que calcule el área de una ésfera
+Objetivo: Hacer un programa que calcule el área y volumen de una esfera
 <br>
 <br>
 <p>Breve descripción:
-Es un programa que calcula el área de una esfera usando M_PI*pow, el cual es una función que pertenece a la librería math.h.
+Es un programa que calcula el área y volumen de una esfera usando M_PI*pow, el cual es una función que pertenece a la librería math.h.
 <br>
 </p>
